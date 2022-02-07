@@ -1,1 +1,1 @@
-printf("peoples");
+printf("peoples are good");
